@@ -1,0 +1,25 @@
+{
+    "deploy": [
+        "../deploy_s3.md"
+    ],
+    "docs": "",
+    "features": [
+        "BLE",
+        "External Flash",
+        "External RAM",
+        "WiFi",
+        "LoRa",
+        "OLED"
+    ],
+    "images": [
+        "LORA32-V3vt.png"
+    ],
+    "mcu": "esp32s3",
+    "product": "Heltec_WiFi_LoRa_32_V3",
+    "thumbnail": "",
+    "url": "https://heltec.org/project/wifi-lora-32-v3/",
+    "vendor": "Heltec",
+    "variants": {
+        "SPIRAM_OCT": "Support for Octal-SPIRAM"
+    }
+}
